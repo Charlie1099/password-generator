@@ -9,7 +9,7 @@ All you need to do is clone this repo.
 # Usage
 As a person that has access to sensitive data I want to randomly generate a password that meets certain criteria 
 so that i can create a strong password that provides greater security
-<img="Develop\imag\password-generator.png">
+<img src="Develop\imag\password-generator.png">
 
 # Technologies
 HTML, CSS JavaScript
