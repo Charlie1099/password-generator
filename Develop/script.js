@@ -16,7 +16,7 @@ console.log(generateBtn)
 // Write password to the #password input
 function writePassword() {
 
-  var passwordlength = parseInt(prompt("Chosse how many characters do you want. you need to chose 8 to 128 characters"));
+  var passwordlength = parseInt(prompt("Chosse how many characters do you want. you need to chose at least 8 to 128 characters"));
   console.log(passwordlength)
   while (passwordlength < 8 || passwordlength > 128) {
     window.alert("Please choose a password characters between 8 to 128 characters!");
